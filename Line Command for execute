@@ -1,0 +1,13 @@
+For launch script, 
+
+1. Open nano editor on terminal
+
+2. Edit code, and CTRL + X for save 
+
+3. Quit with CTRL + O
+
+4. Give access to code with:   chmod +x secure_transfert.sh 
+
+5. launch code with:   ./secure_transfert.sh /home/kali/Desktop/user/TP1/file.txt user@(ip dest) (file destination at other machine)
+
+6. New file create, you can see the file at other machine 
